@@ -1,0 +1,27 @@
+{
+  "feasibility_cells": 81940,
+  "state_simulated_draws": 1890000,
+  "state_rng_seed": 20260921,
+  "representation_cases": 72,
+  "classification": {
+    "static_tls_feasible": {
+      "n": 1740,
+      "mismatches": 220,
+      "false_feasible": 220,
+      "false_infeasible": 0
+    },
+    "udp_amp_feasible": {
+      "n": 1740,
+      "mismatches": 123,
+      "false_feasible": 123,
+      "false_infeasible": 0
+    },
+    "two_budget_feasible": {
+      "n": 1740,
+      "mismatches": 0,
+      "false_feasible": 0,
+      "false_infeasible": 0
+    }
+  },
+  "interpretation": "Retrospective model uses observed packetization. It is not an independent latency predictor. State hit probabilities and cold penalties are hypothetical; no MTC handshake is implemented."
+}

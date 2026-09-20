@@ -1,0 +1,49 @@
+{
+  "openssl": "OpenSSL 3.5.5 27 Jan 2026 (Library: OpenSSL 3.5.5 27 Jan 2026)\n",
+  "certificates": [
+    {
+      "id": "ecdsa",
+      "algorithm": "EC",
+      "root_bytes": 445,
+      "root_sha256": "30cdad38788d7b5d851c3ac79e619244a69f2814f7349526500ed8c01a8c2959",
+      "intermediate_bytes": 453,
+      "intermediate_sha256": "4147679830984da0a052705bc4883b3f8d949558515ce241062cfb89638c1c88",
+      "leaf_bytes": 494,
+      "leaf_sha256": "dfced111bbb3edbc64db16483c597bf8e5937e4673a3d8c6e823041919951651",
+      "verification": "/mnt/data/rework_v2/certificates/ecdsa/leaf.pem: OK"
+    },
+    {
+      "id": "mldsa44",
+      "algorithm": "ML-DSA-44",
+      "root_bytes": 4040,
+      "root_sha256": "d209cae1407f20e44814e3a534c27e99825ea3b8aa87f391897b0ddc889d0cdd",
+      "intermediate_bytes": 4048,
+      "intermediate_sha256": "ed3ddd07ac7015333d6a2dd033775b3ed2f4377e41e98dc0ec1339d89680c1e0",
+      "leaf_bytes": 4090,
+      "leaf_sha256": "a0396ebadaa1278c121f2ae775ee0ed14aa394d9707e951ca352c2e58a78c4a8",
+      "verification": "/mnt/data/rework_v2/certificates/mldsa44/leaf.pem: OK"
+    },
+    {
+      "id": "mldsa65",
+      "algorithm": "ML-DSA-65",
+      "root_bytes": 5569,
+      "root_sha256": "68ad9b180fe2891ee6dda5a3f87fff39ca8eb4491485a9ee75fb20cfae9b5b5b",
+      "intermediate_bytes": 5577,
+      "intermediate_sha256": "c79dd0b2071c83899b38d74c661506868fb5398efdf071de2c554b985a7d29cc",
+      "leaf_bytes": 5619,
+      "leaf_sha256": "8df0168b579c137c16a09ce0c352279638d648ef717eab743bdac04b01075818",
+      "verification": "/mnt/data/rework_v2/certificates/mldsa65/leaf.pem: OK"
+    },
+    {
+      "id": "mldsa87",
+      "algorithm": "ML-DSA-87",
+      "root_bytes": 7527,
+      "root_sha256": "8fa98c8f04d110dffdb89017220a2e5d006022c203238d6857eba6f1b1d3e2b1",
+      "intermediate_bytes": 7535,
+      "intermediate_sha256": "4c115227f0fdcec389f3cd2d602c09391439050be1879fb63143f0ba59ed2980",
+      "leaf_bytes": 7577,
+      "leaf_sha256": "d91eb091d0ff1026ff97d58ad5f0981df0f10f8c9d478c447cd3f09ef54d3ccf",
+      "verification": "/mnt/data/rework_v2/certificates/mldsa87/leaf.pem: OK"
+    }
+  ]
+}

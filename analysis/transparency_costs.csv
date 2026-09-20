@@ -1,0 +1,17 @@
+algorithm,cached,sct_count,certificate_message_bytes,compressed_certificate_message_bytes,sct_list_bytes,sct_signature_verification,scope
+ecdsa,False,0,965,677,0,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+ecdsa,False,2,1210,926,241,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+ecdsa,True,0,507,454,0,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+ecdsa,True,2,752,701,241,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa44,False,0,8156,7918,0,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa44,False,2,8403,8157,243,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa44,True,0,4103,4096,0,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa44,True,2,4350,4334,243,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa65,False,0,11214,10955,0,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa65,False,2,11459,11193,241,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa65,True,0,5632,5616,0,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa65,True,2,5877,5853,241,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa87,False,0,15130,14872,0,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa87,False,2,15375,15111,241,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa87,True,0,7590,7574,0,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
+mldsa87,True,2,7835,7813,241,True,offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC
