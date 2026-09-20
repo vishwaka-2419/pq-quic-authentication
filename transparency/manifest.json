@@ -1,0 +1,162 @@
+[
+  {
+    "algorithm": "ecdsa",
+    "cached": false,
+    "sct_count": 0,
+    "certificate_message_bytes": 965,
+    "compressed_certificate_message_bytes": 677,
+    "sct_list_bytes": 0,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "ecdsa",
+    "cached": false,
+    "sct_count": 2,
+    "certificate_message_bytes": 1210,
+    "compressed_certificate_message_bytes": 926,
+    "sct_list_bytes": 241,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "ecdsa",
+    "cached": true,
+    "sct_count": 0,
+    "certificate_message_bytes": 507,
+    "compressed_certificate_message_bytes": 454,
+    "sct_list_bytes": 0,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "ecdsa",
+    "cached": true,
+    "sct_count": 2,
+    "certificate_message_bytes": 752,
+    "compressed_certificate_message_bytes": 701,
+    "sct_list_bytes": 241,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa44",
+    "cached": false,
+    "sct_count": 0,
+    "certificate_message_bytes": 8156,
+    "compressed_certificate_message_bytes": 7918,
+    "sct_list_bytes": 0,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa44",
+    "cached": false,
+    "sct_count": 2,
+    "certificate_message_bytes": 8403,
+    "compressed_certificate_message_bytes": 8157,
+    "sct_list_bytes": 243,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa44",
+    "cached": true,
+    "sct_count": 0,
+    "certificate_message_bytes": 4103,
+    "compressed_certificate_message_bytes": 4096,
+    "sct_list_bytes": 0,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa44",
+    "cached": true,
+    "sct_count": 2,
+    "certificate_message_bytes": 4350,
+    "compressed_certificate_message_bytes": 4334,
+    "sct_list_bytes": 243,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa65",
+    "cached": false,
+    "sct_count": 0,
+    "certificate_message_bytes": 11214,
+    "compressed_certificate_message_bytes": 10955,
+    "sct_list_bytes": 0,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa65",
+    "cached": false,
+    "sct_count": 2,
+    "certificate_message_bytes": 11459,
+    "compressed_certificate_message_bytes": 11193,
+    "sct_list_bytes": 241,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa65",
+    "cached": true,
+    "sct_count": 0,
+    "certificate_message_bytes": 5632,
+    "compressed_certificate_message_bytes": 5616,
+    "sct_list_bytes": 0,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa65",
+    "cached": true,
+    "sct_count": 2,
+    "certificate_message_bytes": 5877,
+    "compressed_certificate_message_bytes": 5853,
+    "sct_list_bytes": 241,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa87",
+    "cached": false,
+    "sct_count": 0,
+    "certificate_message_bytes": 15130,
+    "compressed_certificate_message_bytes": 14872,
+    "sct_list_bytes": 0,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa87",
+    "cached": false,
+    "sct_count": 2,
+    "certificate_message_bytes": 15375,
+    "compressed_certificate_message_bytes": 15111,
+    "sct_list_bytes": 241,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa87",
+    "cached": true,
+    "sct_count": 0,
+    "certificate_message_bytes": 7590,
+    "compressed_certificate_message_bytes": 7574,
+    "sct_list_bytes": 0,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  },
+  {
+    "algorithm": "mldsa87",
+    "cached": true,
+    "sct_count": 2,
+    "certificate_message_bytes": 7835,
+    "compressed_certificate_message_bytes": 7813,
+    "sct_list_bytes": 241,
+    "sct_signature_verification": true,
+    "scope": "offline RFC6962 v1 X509-entry encoding; private logs; not sent in native QUIC"
+  }
+]
