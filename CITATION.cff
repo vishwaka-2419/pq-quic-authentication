@@ -1,19 +1,18 @@
-cff-version: 1.1.0
-message: "Please cite the versioned Zenodo record for the research artifact. Add its assigned DOI to this file after archival."
+cff-version: 1.2.0
+message: "Cite this version of the software and the separately archived dataset when using these results."
 type: software
-title: "Research artifact for Post-quantum authentication in QUIC under amplification and congestion constraints"
+title: "Post-quantum QUIC authentication reproducibility code"
+version: 2.0.0
+license: MIT
+repository-code: "https://github.com/vishwaka-2419/pq-quic-authentication"
 authors:
   - family-names: Vishwakarma
     given-names: Aishwarya
     affiliation: "Department of Quantum Matter Physics, University of Geneva, Quai-Ernest Ansermet 24, 1211 Geneva, Switzerland"
     orcid: "https://orcid.org/0009-0009-0166-1322"
-abstract: >-
-  Native OpenSSL 3.5.5 QUIC measurement programs, archived datagram and TLS traces,
-  certificate fixtures, analysis scripts, conditional model outputs and manuscript
-  sources for post-quantum authentication under amplification and congestion constraints.
 keywords:
   - QUIC
-  - post-quantum authentication
+  - post-quantum cryptography
   - ML-DSA
-  - TLS
-  - network measurement
+  - authentication
+  - reproducibility

@@ -1,0 +1,21 @@
+{
+  "title": "Post-quantum QUIC authentication reproducibility code",
+  "upload_type": "software",
+  "description": "Code for native OpenSSL QUIC certificate-authentication measurements, byte accounting, latency analysis and reproducibility checks. Raw and archived input data are distributed separately through a dataset deposit.",
+  "creators": [
+    {
+      "name": "Vishwakarma, Aishwarya",
+      "affiliation": "University of Geneva",
+      "orcid": "0009-0009-0166-1322"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "version": "2.0.0",
+  "keywords": [
+    "QUIC",
+    "post-quantum cryptography",
+    "ML-DSA",
+    "reproducibility"
+  ]
+}
