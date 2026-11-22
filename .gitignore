@@ -1,0 +1,20 @@
+# Downloaded input dataset
+/downloads/
+/DATASET_README.md
+/DATASET_SHA256SUMS.txt
+/03_reproducibility/experiment/raw/
+/03_reproducibility/experiment/certificates/
+/03_reproducibility/experiment/certificates_webpki/
+/03_reproducibility/experiment/analysis/
+/03_reproducibility/environment/
+/03_reproducibility/data/
+/05_upstream_archive/
+/06_experiment_protocols/
+# Locally generated results and executables
+/results/
+/03_reproducibility/experiment/bin/
+/rerun/
+__pycache__/
+*.pyc
+.venv/
+*.zip
