@@ -1,0 +1,2 @@
+# Keep the byte-level code checksums stable on every platform.
+* -text
