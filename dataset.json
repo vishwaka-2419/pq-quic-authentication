@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "dataset_doi": null,
+  "dataset_doi": "10.5281/zenodo.24447485",
   "archive_filename": "pq-quic-authentication-v2.0.0-data.zip",
   "archive_sha256": "be4c342490710c68eee813a8ee8503df4bcf778b164da6d7441c3ec264753d8d",
   "raw_new_trials": 1830,
